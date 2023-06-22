@@ -6501,8 +6501,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="182.88" y1="134.62" x2="273.05" y2="134.62" width="0.1524" layer="97" style="shortdash"/>
 <text x="89.662" y="4.064" size="5.08" layer="97">MCU</text>
 <text x="185.42" y="170.18" size="5.08" layer="97">CAN  </text>
-<text x="114.046" y="173.482" size="5.08" layer="97">DC/DC COVERTERS</text>
-<text x="60.198" y="174.244" size="5.08" layer="97">GPIO</text>
+<text x="114.046" y="173.482" size="5.08" layer="97">DC/DC COVERTER</text>
+<text x="57.658" y="174.244" size="5.08" layer="97">GPIO</text>
 <text x="81.28" y="127" size="5.08" layer="97">MOTOR DRIVERS UNIT</text>
 <wire x1="76.2" y1="55.88" x2="106.68" y2="55.88" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="106.68" y1="55.88" x2="106.68" y2="0" width="0.1524" layer="97" style="shortdash"/>
